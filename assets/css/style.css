@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+}
+#red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.text-keterangan {
+  /* color: white; */
+  font-size: 20px;
+  font: arial;
+  padding: 10px;
+}
+.keterangan {
+  background-color: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
